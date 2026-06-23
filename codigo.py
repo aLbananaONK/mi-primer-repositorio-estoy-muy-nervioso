@@ -1,4 +1,4 @@
-nombre = "Tilin"
+nombre = "Tilinasio"
 apellido = "Insano"
 
 saludo = "Hola " + nombre + " " + apellido + " ¿Como estas?"
